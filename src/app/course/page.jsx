@@ -57,7 +57,7 @@ const Courses = () => {
           </div>
         </div> */}
 
-      <div className="  flex items-center justify-center ">
+      <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-5 gap-5">
         <div className="max-w-md w-full bg-white rounded-lg shadow-lg overflow-hidden">
           <div className="">
             <img
@@ -81,22 +81,191 @@ const Courses = () => {
               </span>
             </div>
             <hr />
-            <p className="text-gray-600 mt-2">
+            <p className="text-gray-600 mt-2 text-lg font-bold py-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+            <p className="text-gray-600 mt-2 text-sm  pb-2 px-4">
             Full Stack Web Development with Python, Django & React
             </p>
 
 
-
-            <div className="mt-6">
+            <div className="mt-4 pb-2 px-4">
               <a
                 href="#"
-                className="block w-full bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-2 px-4 rounded-lg text-center"
+                className="block w-full bg-gray-200 hover:bg-gray-600 text-black font-bold py-2 px-4 rounded-lg text-center"
               >
-                বিস্তারিত দেখুন 
+                Add to cart
               </a>
             </div>
           </div>
         </div>
+        <div className="max-w-md w-full bg-white rounded-lg shadow-lg overflow-hidden">
+          <div className="">
+            <img
+              src="https://cdn.ostad.app/course/cover/2024-10-22T12-37-49.289Z-Python-Thumbnail-1.jpg" // Replace with the actual course image
+              alt="Course Banner"
+              className="w-full h-56 object-cover"
+            />
+
+          </div>
+
+          <div className="">
+            <div className="flex items-center space-x-4 m-2">
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ব্যাচ ৬
+              </span>
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ৬ সিট বাকি
+              </span>
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ৪ দিন বাকি
+              </span>
+            </div>
+            <hr />
+            <p className="text-gray-600 mt-2 text-lg font-bold py-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+            <p className="text-gray-600 mt-2 text-sm  pb-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+
+
+            <div className="mt-4 pb-2 px-4">
+              <a
+                href="#"
+                className="block w-full bg-gray-200 hover:bg-gray-600 text-black font-bold py-2 px-4 rounded-lg text-center"
+              >
+                Add to cart
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="max-w-md w-full bg-white rounded-lg shadow-lg overflow-hidden">
+          <div className="">
+            <img
+              src="https://cdn.ostad.app/course/cover/2024-10-22T12-37-49.289Z-Python-Thumbnail-1.jpg" // Replace with the actual course image
+              alt="Course Banner"
+              className="w-full h-56 object-cover"
+            />
+
+          </div>
+
+          <div className="">
+            <div className="flex items-center space-x-4 m-2">
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ব্যাচ ৬
+              </span>
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ৬ সিট বাকি
+              </span>
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ৪ দিন বাকি
+              </span>
+            </div>
+            <hr />
+            <p className="text-gray-600 mt-2 text-lg font-bold py-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+            <p className="text-gray-600 mt-2 text-sm  pb-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+
+
+            <div className="mt-4 pb-2 px-4">
+              <a
+                href="#"
+                className="block w-full bg-gray-200 hover:bg-gray-600 text-black font-bold py-2 px-4 rounded-lg text-center"
+              >
+                Add to cart
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="max-w-md w-full bg-white rounded-lg shadow-lg overflow-hidden">
+          <div className="">
+            <img
+              src="https://cdn.ostad.app/course/cover/2024-10-22T12-37-49.289Z-Python-Thumbnail-1.jpg" // Replace with the actual course image
+              alt="Course Banner"
+              className="w-full h-56 object-cover"
+            />
+
+          </div>
+
+          <div className="">
+            <div className="flex items-center space-x-4 m-2">
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ব্যাচ ৬
+              </span>
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ৬ সিট বাকি
+              </span>
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ৪ দিন বাকি
+              </span>
+            </div>
+            <hr />
+            <p className="text-gray-600 mt-2 text-lg font-bold py-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+            <p className="text-gray-600 mt-2 text-sm  pb-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+
+
+            <div className="mt-4 pb-2 px-4">
+              <a
+                href="#"
+                className="block w-full bg-gray-200 hover:bg-gray-600 text-black font-bold py-2 px-4 rounded-lg text-center"
+              >
+                Add to cart
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="max-w-md w-full bg-white rounded-lg shadow-lg overflow-hidden">
+          <div className="">
+            <img
+              src="https://cdn.ostad.app/course/cover/2024-10-22T12-37-49.289Z-Python-Thumbnail-1.jpg" // Replace with the actual course image
+              alt="Course Banner"
+              className="w-full h-56 object-cover"
+            />
+
+          </div>
+
+          <div className="">
+            <div className="flex items-center space-x-4 m-2">
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ব্যাচ ৬
+              </span>
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ৬ সিট বাকি
+              </span>
+              <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-md text-sm">
+                ৪ দিন বাকি
+              </span>
+            </div>
+            <hr />
+            <p className="text-gray-600 mt-2 text-lg font-bold py-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+            <p className="text-gray-600 mt-2 text-sm  pb-2 px-4">
+            Full Stack Web Development with Python, Django & React
+            </p>
+
+
+            <div className="mt-4 pb-2 px-4">
+              <a
+                href="#"
+                className="block w-full bg-gray-200 hover:bg-gray-600 text-black font-bold py-2 px-4 rounded-lg text-center"
+              >
+                Add to cart
+              </a>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   );
